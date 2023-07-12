@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    background-color: rgba(206, 175, 175, 0.895);
+    display: flow-root;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    background-color: brown;
+    margin: 0px;
+}
+h2{
+    text-align: center;
+}
+p{
+    margin: 1em;
+}
+#The_smile{
+    float: left;
+    margin: 8px;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: hwb(240 2% 73%);
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: rgb(212, 225, 236);
+    text-decoration: none;
+    padding: 1em;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: rgb(107, 13, 13);
+}
+.navbar .left_bar li{
+    float: left;
+}
+.navbar .right_bar li{
+    float: right;
+}
+footer{
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding: 2em;
+    margin: 0em;
+}
+footer a{
+    color: aliceblue;
+}
+.foot_bar ul{
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    overflow: hidden;
+}
+.foot_bar .images{
+    height: 80px;
+}
+.foot_bar .images{
+    float: right;
+}
